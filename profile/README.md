@@ -88,6 +88,10 @@ Newstagram은 사용자의 활동 로그를 분석하여 RSS 뉴스 피드를 �
 ![화면 페이지1](/docs/images/Page1.png)
 
 ![화면 페이지2](/docs/images/Page2.png)
+
+![화면 페이지3](/docs/images/Page3.png)
+
+![화면 페이지4](/docs/images/Page4.png)
 ---
 
 
