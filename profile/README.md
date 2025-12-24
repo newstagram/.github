@@ -1,4 +1,4 @@
-# Newstagram Backend
+# Newstagram
 
 # 📋 프로젝트 개요
 
@@ -90,7 +90,7 @@ Newstagram은 사용자의 활동 로그를 분석하여 RSS 뉴스 피드를 �
 
 <br><br><br>
 
-# 📋 프로젝트 시스템
+# 🚩 프로젝트 시스템
 
 ## 시스템 아키텍처
 
@@ -264,7 +264,7 @@ newstagram_back/
 ```
 <br><br><br>
 
-# Newstagram 백엔드: 개발 환경 설정 가이드
+# 🐕‍🦺개발 환경 설정 가이드
 
 ## 사전 요구사항
 
