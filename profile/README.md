@@ -333,8 +333,8 @@ GOOGLE_REDIRECT_URI=(http://localhost:8080/api/login/oauth2/code/google)
 #GOOGLE_REDIRECT_URI=https://localhost:8080/api/login/oauth2/code/google
 
 # Gmail
-GMAIL_USERNAME=dabinchi9969@gmail.com
-GMAIL_APP_PASSWORD=fbnsevwojrhixiuy
+GMAIL_USERNAME=
+GMAIL_APP_PASSWORD=
 
 BASE_URL=http://localhost:8080
 
@@ -488,4 +488,5 @@ docker-compose up -d
     
     ```java
     REDIS_PORT = 6380 // 호스트 포트를 6380으로 변경
+
     ```
